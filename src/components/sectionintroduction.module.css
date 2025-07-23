@@ -1,0 +1,35 @@
+.headerText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.line {
+  width: 100px;
+  height: 4px;
+  background-color: #0f172a;
+  border-radius: 2px;
+}
+
+.lineDark {
+  width: 100px;
+  height: 4px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.text {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #0f172a;
+  text-align: center;
+}
+
+.textDark {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
